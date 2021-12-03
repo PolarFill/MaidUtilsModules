@@ -1,4 +1,6 @@
-current = v1.0
+current_global = v1.0
+current_linux = v1.0
+current_win = v1.0
 0.1.2
 v1.3
 1.0
