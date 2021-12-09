@@ -1,2 +1,2 @@
-# MaidUtils
-Gerenciador de pacotes genérico para meus programas
+# Módulos da MaidUtils
+Alguns repositórios para a MaidUtils
